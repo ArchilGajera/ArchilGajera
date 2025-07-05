@@ -188,7 +188,7 @@
   </ul>
 </details> -->
 
-<details>
+<details>   
   <summary>Quote</summary>
   <br>
   <blockquote>
