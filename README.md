@@ -14,7 +14,7 @@
 <summary>Open profile</summary>
 
 <br>               
-<div>
+<div>    
   <div align=center>
 <!--       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10"> -->
   </div>
