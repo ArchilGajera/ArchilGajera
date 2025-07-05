@@ -146,7 +146,7 @@
 <!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/> -->
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>Tools</kbd>    
       <br>
       <br>
 <!--       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/> -->
