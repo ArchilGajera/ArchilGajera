@@ -54,7 +54,7 @@
 
 </div>   
 
-</details>
+</details>   
 
 <details>
 <summary>Tools</summary>
